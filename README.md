@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ruba Abirami</h1>
-# 💫 About Me:
+💫 About Me:
 👨‍💻 Passionate Software Developer with strong knowledge of Data Structures & Algorithms (C++)<br><br>🌱 Currently exploring Machine Learning .<br><br>🚀 Interested in building efficient, scalable, and user-friendly solutions<br><br>📚 Lifelong learner who enjoys problem-solving and experimenting with new technologies<br><br>🤝 Open to collaboration on open-source projects and innovative ideas
 
 
